@@ -5,7 +5,7 @@ require "chinese_pinyin/version"
 
 Gem::Specification.new do |s|
   s.name        = "chinese_pinyin"
-  s.version     = ChinesePinyin::VERSION
+  s.version     = "1.1.0" #ChinesePinyin::VERSION
   s.license     = "MIT"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Richard Huang", "Hong, Liang"]
